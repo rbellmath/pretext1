@@ -9,14 +9,16 @@
   </introduction>
   <subsection xml:id="subsection-1">
     <title>Metric Geometry</title>
-    <p>Let X be a CAT(0) space.  Then X is contractible.</p>
+    <p>Let <m>X</m> be a <m>\CAT (0)</m> space.  Then <m>X</m> is contractible.</p>
     <p>Insert careful proof.</p>
     <figure>
       <caption>A frog</caption>
       <image source="frog.jpg" width="50%">
-        <description>A picture of frog that hopped into a geometry paper.</description>
+        <description>
+          <p>A picture of frog that hopped into a geometry paper.</p>
+        </description>
       </image>
     </figure>
-    <p>Bar: <m>\foo</m></p>
+    <p>Question for later: why does the <m>\CAT</m> operator display in this font?</p>
   </subsection>
 </section>

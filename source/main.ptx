@@ -5,7 +5,10 @@
 
     <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
 
-    <macros>\newcommand{\foo}{b^{ar}}</macros>
+    <macros>
+      \DeclareMathOperator{\CAT}{CAT}
+      \newcommand{\CAT}{CAT}
+    </macros>
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
   </docinfo>
 
