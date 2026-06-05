@@ -2,16 +2,19 @@
 <section xml:id="section-1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>My First Section</title>
   <introduction>
-    <p>Some words</p>
+    <p>This article serves two purposes.  First, it serves as a focus for my efforts to learn how to author articles in PreTeXt.
+      Second, it will record some theorems from geometry that either I find interesting or which may be relevant to the course
+      I will teach in the Fall of 2026 at Michigan State University.
+    </p>
   </introduction>
   <subsection xml:id="subsection-1">
-    <title>My First Subsection</title>
-    <p>Some more words</p>
-    <p>foo</p>
+    <title>Metric Geometry</title>
+    <p>Let X be a CAT(0) space.  Then X is contractible.</p>
+    <p>Insert careful proof.</p>
     <figure>
       <caption>A frog</caption>
       <image source="frog.jpg" width="50%">
-        <description>A nice-looking frog with a longish description.</description>
+        <description>A picture of frog that hopped into a geometry paper.</description>
       </image>
     </figure>
     <p>Bar: <m>\foo</m></p>
