@@ -12,16 +12,8 @@
   </introduction>
   <subsection xml:id="subsection-1">
     <title>Regular Polygons</title>
-    <p>Let <m>P</m> be a regular polygon with <m>n</m> sides.  
-      Thus, <m>P</m> consists of <m>n</m> points (vertices), 
-      <m>p_0, \dots, p_{n-1}</m>X</m>, and <m>n</m> line segments,
-      <m>p_0p_1, \dots, p_{n-1}p_0</m>.  Indices are to be read
-      modulo <m>n</m>.  To be a <em>regular</em> polygon, we
-      require that each side has the same length and that each
-      angle 
-      <m>\angle p_{k-1}p_kp_{k+1}</m> <m>(k = 0, \dots, n-1)</m>
-      has the same measure.
-    </p>
+    
+
     <p>How many symmetries does <m>P</m> admit?</p>
     <p><em>Whenever a question is posed in these notes, it is 
       intended that the reader should pause and think.</em>
