@@ -3,7 +3,7 @@
 
   <docinfo>
 
-    <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
+    <document-id>bell-GroupsAndGeometry</document-id>
 
     <macros>
       \DeclareMathOperator{\CAT}{CAT}
@@ -13,7 +13,7 @@
   </docinfo>
 
   <article xml:id="shorttitlelowercase">
-    <title>A Miscellany of Geometrical Theorems</title>
+    <title>Groups and Geometry</title>
 
     <xi:include href="./frontmatter.ptx" />
     
