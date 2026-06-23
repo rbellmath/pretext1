@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="section-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Placeholder</title>
+  <title>Introduction</title>
   <introduction>
-    <p>This article serves two purposes.  First, it serves as a focus for my efforts to learn how to author articles in PreTeXt.
-      Second, it will record some theorems from geometry that either I find interesting or which may be relevant to the course
-      I will teach in the Fall of 2026 at Michigan State University.
+    <p>The most intriguing geometrical objects are symmetrical.  An 
+      abstract group is an algebraic construct designed to quantify
+      symmetry precisely.  And so, the study of groups and geometry 
+      in tandem is both natural and symbiotic.  These notes are
+      intended to introduce upper-level undergraduate students to
+      their beautiful interplay.
     </p>
   </introduction>
   <subsection xml:id="subsection-1">
-    <title>Metric Geometry</title>
-    <p>Let <m>X</m> be a <m>\CAT (0)</m> space.  Then <m>X</m> is contractible.</p>
-    <p>Insert careful proof.</p>
+    <title>Regular Polygons</title>
+    <p>Let <m>P</m> be a regular polygon with <m>n</m> sides.  
+      Thus, <m>P</m> consists of <m>n</m> points (vertices), 
+      <m>p_0, \dots, p_{n-1}</m>X</m>, and <m>n</m> line segments,
+      <m>p_0p_1, \dots, p_{n-1}p_0</m>.  Indices are to be read
+      modulo <m>n</m>.  To be a <em>regular</em> polygon, we
+      require that each side has the same length and that each
+      angle 
+      <m>\angle p_{k-1}p_kp_{k+1}</m> <m>(k = 0, \dots, n-1)</m>
+      has the same measure.
+    </p>
+    <p>How many symmetries does <m>P</m> admit?</p>
+    <p><em>Whenever a question is posed in these notes, it is 
+      intended that the reader should pause and think.</em>
+    </p>
+    <p>The polygon has both rotational symmetry and mirror symmetry.
+      We will now demonstrate one method of finding all of the 
+      symmetries of <m>P</m>.
+    </p>
     <figure>
       <caption>A frog</caption>
       <image source="frog.jpg" width="50%">
