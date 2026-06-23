@@ -13,6 +13,19 @@
   <subsection xml:id="subsection-1">
     <title>Regular Polygons</title>
     
+    <p> Let <m>P</m> be a polygon with <m>n</m> sides.  
+      Thus, <m>P</m> consists of <m>n</m> points (vertices), 
+      <m>p_0, \dots, p_{n-1}</m>, and <m>n</m> line segments, 
+      <m>s_0, \dots, s_{n-1}</m>, where the segment <m>s_k</m> 
+      has endpoints <m>p_k</m> and <m>p_{k+1}</m>.  Indices are 
+      to be read modulo <m>n</m>.
+    </p>
+
+    <p>Suppose that <m>P</m> is a <em>regular</em> polygon.
+      This means that every side has the same length
+      and that every angle, <m>\angle (s_{k}, p_k, s_{k+1})</m>
+      <m>(k = 0, \dots, n-1)</m> has the same measure. 
+    </p>
 
     <p>How many symmetries does <m>P</m> admit?</p>
     <p><em>Whenever a question is posed in these notes, it is 
