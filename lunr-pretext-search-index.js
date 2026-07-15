@@ -6,8 +6,8 @@ var ptx_lunr_docs = [
   "url": "shorttitlelowercase-2.html",
   "type": "Front Matter",
   "number": "",
-  "title": "Front Matter",
-  "body": "  Author X. Lastname    This is the abstract.   "
+  "title": "Groups and Geometry",
+  "body": "  Robert W. Bell   Groups and Geometry   These are the course notes for Groups and Geometry , Fall 2026, at Michigan State University. The course is being offered as MTH 496: Capstone in Mathematics. The course is intended for juniors and seniors who have studied at least one semester of linear algebra, analysis, and algebra. The overarching theme is symmetrical objects in geometry are naturally studied using group theory; conversely, abstract groups can be profitably studied via their actions on sufficiently symmetric geometric spaces.   "
 },
 {
   "id": "section-1",
