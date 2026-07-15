@@ -15,17 +15,17 @@ var ptx_lunr_docs = [
   "url": "section-1.html",
   "type": "Section",
   "number": "1",
-  "title": "My First Section",
-  "body": " My First Section   Some words    My First Subsection  Some more words  foo   A frog   A nice-looking frog with a longish description.    Bar:   "
+  "title": "Introduction",
+  "body": " Introduction   The most intriguing geometrical objects are symmetrical. An abstract group is an algebraic construct designed to quantify symmetry precisely. And so, the study of groups and geometry in tandem is both natural and symbiotic. These notes are intended to introduce upper-level undergraduate students to their beautiful interplay.    Regular Polygons  Let be a polygon with sides. Thus, consists of points (vertices), , and line segments, , where the segment has endpoints and . Indices are to be read modulo .  Suppose that is a regular polygon. This means that every side has the same length and that every angle,  has the same measure.  How many symmetries does admit?  Whenever a question is posed in these notes, it is intended that the reader should pause and think.   The polygon has both rotational symmetry and mirror symmetry. We will now demonstrate one method of finding all of the symmetries of .   A frog    A picture of frog that hopped into a geometry paper.     Question for later: why does the operator display in this font?   "
 },
 {
-  "id": "subsection-1-4",
+  "id": "subsection-1-7",
   "level": "2",
-  "url": "section-1.html#subsection-1-4",
+  "url": "section-1.html#subsection-1-7",
   "type": "Figure",
   "number": "1.1",
   "title": "",
-  "body": " A frog   A nice-looking frog with a longish description.   "
+  "body": " A frog    A picture of frog that hopped into a geometry paper.    "
 },
 {
   "id": "section-2",
